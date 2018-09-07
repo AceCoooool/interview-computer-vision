@@ -19,11 +19,17 @@
 
 > 更"全面的"内容见：[MLDS-Note](https://github.com/AceCoooool/MLDS-Note)
 
-### 4. 目标检测
+### 4. 去噪网络
+
+详见：[denoise](Denoise/README.md)
+
+> 更多去噪论文：[Denoise Summary](https://github.com/wenbihan/reproducible-image-denoising-state-of-the-art)
+
+### 5. 目标检测
 
 详见：[object detection](Detection/README.md)
 
-### 5. 实例分割
+### 6. 实例分割
 
 详见：[semantic segmentation](Segmentation/README.md)
 
