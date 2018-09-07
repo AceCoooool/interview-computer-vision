@@ -15,7 +15,7 @@
 
 ### 3. 深度学习基础
 
-详见：[deep learning](DeepLearning/README.md)
+详见：[deep learning](DL/README.md)
 
 > 更"全面的"内容见：[MLDS-Note](https://github.com/AceCoooool/MLDS-Note)
 
