@@ -25,3 +25,10 @@
 - [x] DeepLab v1
 - [x] DeepLab v2
 - [x] DeepLab v3
+
+## 3. Attention Based
+
+- [x] DANet
+- [x] DCNet
+- [x] PSANet
+
