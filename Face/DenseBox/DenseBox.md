@@ -4,9 +4,8 @@
 
 #DenseBox: Unifying Landmark Localization with End to End Object Detection
 
-> 摘要：我们如何利用单个全卷积网络（FCN）来处理目标检测任务呢？在这里，作者提出了DenseBox，一种统一的端到端的FCN结构
+> 摘要：我们如何利用单个全卷积网络（FCN）来处理目标检测任务呢？在这里，作者提出了DenseBox，能够直接用FCN预测类别和位置信息，且可以进行端到端的训练（类似YOLO的框架）。这篇文章的主要贡献有两方面：1. 只要小心地设计和优化，单个FCN也能够很好的进行目标检测  2. 进行多任务学习（在这里作者结合landmark localization）可以进一步提高DenseBox的性能。作者分别在MALF人脸检测数据集和KITTI车辆检测数据集上进行实验，均取得了很好的结果。
 >
-> 未完待续
 
 ## 1. 结构和原理
 
